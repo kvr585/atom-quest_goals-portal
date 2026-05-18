@@ -1,0 +1,7 @@
+[
+  { "id": "dept-eng", "name": "Engineering", "headId": "mgr-001", "employeeCount": 8 },
+  { "id": "dept-sales", "name": "Sales & Marketing", "headId": "mgr-002", "employeeCount": 5 },
+  { "id": "dept-hr", "name": "Human Resources", "headId": "mgr-003", "employeeCount": 3 },
+  { "id": "dept-fin", "name": "Finance", "headId": "mgr-004", "employeeCount": 4 },
+  { "id": "dept-ops", "name": "Operations", "headId": "mgr-005", "employeeCount": 5 }
+]

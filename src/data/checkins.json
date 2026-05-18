@@ -1,0 +1,14 @@
+[
+  { "id": "ci-001", "goalId": "goal-001", "employeeId": "emp-001", "quarter": "Q1", "planned": "30%", "actual": "28%", "status": "on_track", "achievement": 28, "managerFeedback": "Good progress on migration planning", "updatedAt": "2026-03-31T17:00:00Z" },
+  { "id": "ci-002", "goalId": "goal-001", "employeeId": "emp-001", "quarter": "Q2", "planned": "65%", "actual": "55%", "status": "on_track", "achievement": 55, "managerFeedback": "Slightly behind but recoverable", "updatedAt": "2026-06-30T17:00:00Z" },
+  { "id": "ci-003", "goalId": "goal-002", "employeeId": "emp-001", "quarter": "Q1", "planned": "15%", "actual": "10%", "status": "on_track", "achievement": 10, "updatedAt": "2026-03-31T17:00:00Z" },
+  { "id": "ci-004", "goalId": "goal-002", "employeeId": "emp-001", "quarter": "Q2", "planned": "40%", "actual": "35%", "status": "on_track", "achievement": 35, "comments": "POC completed, starting pilot", "updatedAt": "2026-06-30T17:00:00Z" },
+  { "id": "ci-005", "goalId": "goal-007", "employeeId": "emp-005", "quarter": "Q1", "planned": "$500K", "actual": "$480K", "status": "on_track", "achievement": 96, "updatedAt": "2026-03-31T17:00:00Z" },
+  { "id": "ci-006", "goalId": "goal-007", "employeeId": "emp-005", "quarter": "Q2", "planned": "$1.2M", "actual": "$1.44M", "status": "completed", "achievement": 120, "managerFeedback": "Exceeded target - excellent work!", "updatedAt": "2026-06-30T17:00:00Z" },
+  { "id": "ci-007", "goalId": "goal-010", "employeeId": "emp-010", "quarter": "Q1", "planned": "100%", "actual": "100%", "status": "completed", "achievement": 100, "managerFeedback": "Delivered ahead of schedule", "updatedAt": "2026-03-31T17:00:00Z" },
+  { "id": "ci-008", "goalId": "goal-012", "employeeId": "emp-010", "quarter": "Q1", "planned": "20%", "actual": "10%", "status": "not_started", "achievement": 10, "managerFeedback": "Need to prioritize automation project", "updatedAt": "2026-03-31T17:00:00Z" },
+  { "id": "ci-009", "goalId": "goal-012", "employeeId": "emp-010", "quarter": "Q2", "planned": "40%", "actual": "25%", "status": "on_track", "achievement": 25, "comments": "Resource constraints delayed progress", "updatedAt": "2026-06-30T17:00:00Z" },
+  { "id": "ci-010", "goalId": "goal-013", "employeeId": "emp-013", "quarter": "Q1", "planned": "20%", "actual": "18%", "status": "on_track", "achievement": 18, "updatedAt": "2026-03-31T17:00:00Z" },
+  { "id": "ci-011", "goalId": "goal-013", "employeeId": "emp-013", "quarter": "Q2", "planned": "45%", "actual": "42%", "status": "on_track", "achievement": 42, "updatedAt": "2026-06-30T17:00:00Z" },
+  { "id": "ci-012", "goalId": "goal-008", "employeeId": "emp-005", "quarter": "Q2", "planned": "80%", "actual": "85%", "status": "completed", "achievement": 85, "updatedAt": "2026-06-30T17:00:00Z" }
+]

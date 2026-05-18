@@ -1,0 +1,35 @@
+[
+  {
+    "id": "shared-001",
+    "title": "Reduce Customer Churn Rate",
+    "description": "Department-wide initiative to reduce monthly churn below 2%",
+    "target": "2%",
+    "uomType": "percentage",
+    "departmentId": "dept-sales",
+    "createdBy": "admin-001",
+    "assignedEmployeeIds": ["emp-005", "emp-006", "emp-007", "emp-018", "emp-019"],
+    "cycleId": "cycle-2026"
+  },
+  {
+    "id": "shared-002",
+    "title": "Platform Uptime SLA",
+    "description": "Maintain 99.9% platform availability across all services",
+    "target": "99.9%",
+    "uomType": "percentage",
+    "departmentId": "dept-eng",
+    "createdBy": "admin-002",
+    "assignedEmployeeIds": ["emp-001", "emp-002", "emp-003", "emp-004", "emp-016", "emp-017"],
+    "cycleId": "cycle-2026"
+  },
+  {
+    "id": "shared-003",
+    "title": "Cost Optimization Initiative",
+    "description": "Reduce operational costs by 8% through process improvements",
+    "target": "8%",
+    "uomType": "percentage",
+    "departmentId": "dept-ops",
+    "createdBy": "admin-002",
+    "assignedEmployeeIds": ["emp-013", "emp-014", "emp-015", "emp-020"],
+    "cycleId": "cycle-2026"
+  }
+]

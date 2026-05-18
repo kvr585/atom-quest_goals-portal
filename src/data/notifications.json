@@ -1,0 +1,12 @@
+[
+  { "id": "notif-001", "userId": "emp-001", "title": "Goal Approved", "message": "Your goal 'Deliver Microservices Migration Phase 2' has been approved by James Wilson", "type": "success", "read": false, "createdAt": "2026-02-01T14:30:00Z", "link": "/goals" },
+  { "id": "notif-002", "userId": "emp-001", "title": "Q2 Check-in Reminder", "message": "Quarterly check-in for Q2 is due by June 30, 2026", "type": "warning", "read": false, "createdAt": "2026-06-25T09:00:00Z", "link": "/checkins" },
+  { "id": "notif-003", "userId": "emp-002", "title": "Goal Submitted", "message": "Your goal sheet has been submitted for manager review", "type": "info", "read": true, "createdAt": "2026-05-15T08:00:00Z", "link": "/goals" },
+  { "id": "notif-004", "userId": "mgr-001", "title": "Pending Approval", "message": "Jordan Lee submitted 'Redesign Dashboard UI' for your approval", "type": "warning", "read": false, "createdAt": "2026-05-15T08:05:00Z", "link": "/manager/approvals" },
+  { "id": "notif-005", "userId": "mgr-001", "title": "Team Check-in Due", "message": "3 team members have pending Q2 check-ins", "type": "warning", "read": false, "createdAt": "2026-06-28T10:00:00Z", "link": "/manager/checkins" },
+  { "id": "notif-006", "userId": "emp-003", "title": "Goal Rejected", "message": "Your goal 'API Gateway Implementation' was rejected. Please review manager comments.", "type": "error", "read": false, "createdAt": "2026-05-05T15:00:00Z", "link": "/goals" },
+  { "id": "notif-007", "userId": "admin-001", "title": "Cycle Activated", "message": "FY 2026 Performance Cycle is now active organization-wide", "type": "success", "read": true, "createdAt": "2026-01-01T00:00:00Z", "link": "/admin/cycles" },
+  { "id": "notif-008", "userId": "admin-002", "title": "Escalation Alert", "message": "Goal 'Automate Monthly Reporting' has been escalated to Level 2", "type": "error", "read": false, "createdAt": "2026-05-12T09:30:00Z", "link": "/admin/escalations" },
+  { "id": "notif-009", "userId": "emp-005", "title": "Achievement Update", "message": "Congratulations! You exceeded your Q2 sales target by 20%", "type": "success", "read": false, "createdAt": "2026-06-30T18:00:00Z", "link": "/checkins" },
+  { "id": "notif-010", "userId": "emp-010", "title": "Goal At Risk", "message": "Your goal 'Automate Monthly Reporting' is marked as delayed", "type": "warning", "read": false, "createdAt": "2026-05-12T09:00:00Z", "link": "/goals" }
+]
