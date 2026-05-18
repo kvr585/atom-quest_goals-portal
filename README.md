@@ -2,7 +2,7 @@
 
 Enterprise Goal Setting & Tracking Portal — a production-style React frontend for HR performance management.
 
-![AtomQuest Goals Portal](https://img.shields.io/badge/React-19-blue) ![Vite](https://img.shields.io/badge/Vite-8-purple) ![TailwindCSS](https://img.shields.io/badge/Tailwind-4-cyan)
+![React](https://img.shields.io/badge/React-TypeScript-blue)  ![Vite](https://img.shields.io/badge/Vite-Frontend-purple)  ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-UI-cyan)
 
 ## Quick Start
 
@@ -11,7 +11,9 @@ npm install
 npm run dev
 ```
 
-Open [http://localhost:5173](http://localhost:5173)
+## Live Demo
+
+[AtomQuest Goals Portal](https://atom-quest-goals-portal.vercel.app)
 
 ## Demo Accounts
 
@@ -104,15 +106,34 @@ src/
 | sharedGoals.json   | Departmental shared KPIs          |
 | cycles.json        | Performance cycles                |
 
-## Screenshots (Demo Views)
+## Application Screenshots
 
-1. **Login** — Split layout with branding panel and demo role buttons
-2. **Employee Dashboard** — KPI cards, quarterly line chart, goal summary
-3. **Goal Creation** — Dynamic multi-goal form with weightage validator
-4. **Manager Approvals** — Inline review modal with approve/reject
-5. **Admin Dashboard** — Department heatmap bar chart
-6. **Analytics** — QoQ trends, pie chart, leaderboard, completion heatmap
-7. **Audit Logs** — Timeline view with role filters
+### Login Page
+![Login](./screenshots/login.png)
+
+### Employee Dashboard
+![Employee Dashboard](./screenshots/employee-dashboard.png)
+
+### Goal Creation
+![Goal Creation](./screenshots/goal-creation.png)
+
+### Manager Approvals
+![Manager Approvals](./screenshots/manager-approvals.png)
+
+### Quarterly Check-ins
+![Check-ins](./screenshots/checkins.png)
+
+### Admin Dashboard
+![Admin Dashboard](./screenshots/admin-dashboard.png)
+
+### Analytics Module
+![Analytics](./screenshots/analytics.png)
+
+### Audit Logs
+![Audit Logs](./screenshots/audit-logs.png)
+
+### Reports & Export
+![Reports](./screenshots/reports.png)
 
 ## Scripts
 
