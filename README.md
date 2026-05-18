@@ -135,6 +135,11 @@ src/
 ### Reports & Export
 ![Reports](./screenshots/reports.png)
 
+## Presentation
+
+- PPT Deck: `presentations/AtomQuest-Goals-Portal.pptx`
+- PDF Deck: `presentations/AtomQuest-Goals-Portal.pdf`
+
 ## Scripts
 
 ```bash
